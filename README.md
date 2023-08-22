@@ -1,2 +1,2 @@
-# test-tiptap
+# tiptap-react
 Created with CodeSandbox
